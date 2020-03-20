@@ -8,4 +8,5 @@ webapps/
 .classpath
 .project
 /bin/
+.idea
 src/main/resources/application-properties.xml
